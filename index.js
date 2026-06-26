@@ -11,12 +11,5 @@ function sayGreet() {
     console.log("Hello name good morning");
 }
 
-//john doe implementing some feature
-
-function addNewFeatur2() {
-    console.log("added 2nd feature by jonhdoe");
-}
-
-
 
 
